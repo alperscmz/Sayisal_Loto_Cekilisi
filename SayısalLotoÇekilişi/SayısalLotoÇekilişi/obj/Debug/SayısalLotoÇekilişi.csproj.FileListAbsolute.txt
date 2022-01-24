@@ -1,0 +1,10 @@
+C:\Users\alper\source\repos\SayısalLotoÇekilişi\SayısalLotoÇekilişi\bin\Debug\SayısalLotoÇekilişi.exe.config
+C:\Users\alper\source\repos\SayısalLotoÇekilişi\SayısalLotoÇekilişi\bin\Debug\SayısalLotoÇekilişi.exe
+C:\Users\alper\source\repos\SayısalLotoÇekilişi\SayısalLotoÇekilişi\bin\Debug\SayısalLotoÇekilişi.pdb
+C:\Users\alper\source\repos\SayısalLotoÇekilişi\SayısalLotoÇekilişi\obj\Debug\SayısalLotoÇekilişi.csprojAssemblyReference.cache
+C:\Users\alper\source\repos\SayısalLotoÇekilişi\SayısalLotoÇekilişi\obj\Debug\SayısalLotoÇekilişi.Form1.resources
+C:\Users\alper\source\repos\SayısalLotoÇekilişi\SayısalLotoÇekilişi\obj\Debug\SayısalLotoÇekilişi.Properties.Resources.resources
+C:\Users\alper\source\repos\SayısalLotoÇekilişi\SayısalLotoÇekilişi\obj\Debug\SayısalLotoÇekilişi.csproj.GenerateResource.cache
+C:\Users\alper\source\repos\SayısalLotoÇekilişi\SayısalLotoÇekilişi\obj\Debug\SayısalLotoÇekilişi.csproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\SayısalLotoÇekilişi\SayısalLotoÇekilişi\obj\Debug\SayısalLotoÇekilişi.exe
+C:\Users\alper\source\repos\SayısalLotoÇekilişi\SayısalLotoÇekilişi\obj\Debug\SayısalLotoÇekilişi.pdb
